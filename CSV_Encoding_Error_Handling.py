@@ -1,6 +1,8 @@
 import pandas as pd
 
-# Attempting to read the CSV file with a different encoding, typically 'ISO-8859-1' or 'latin1' is used for CSV files with encoding issues
+# Attempting to read the CSV file with a different encoding.
+# 'ISO-8859-1' or 'latin1' are used for CSV files with encoding issues.
+# The file path where ChatGPT stores the data to be
 csv_file_path = '/mnt/data/How physics flew the philosophers\' nest extracted_theories.csv'
 
 
